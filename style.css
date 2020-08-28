@@ -3,6 +3,7 @@ body {
     text-transform: uppercase;
     font-family: comic sans MS;
     background: linear-gradient(to right,red,cyan);
+    display:flex;
     flex-wrap:wrap;
 }
 h1{
